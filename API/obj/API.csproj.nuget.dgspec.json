@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L064701\\GitHub\\DatingApp\\API\\API.csproj": {}
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L064701\\GitHub\\DatingApp\\API\\API.csproj": {
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L064701\\GitHub\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\L064701\\GitHub\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L064701\\GitHub\\DatingApp\\API\\obj\\",
+        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
+        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +41,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

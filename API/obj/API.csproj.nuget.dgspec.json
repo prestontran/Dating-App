@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
+    "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
+    "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
-        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
+        "projectPath": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -42,6 +38,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[7.0.4, )"

@@ -1,27 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj": {}
+    "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj": {
+    "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\API.csproj",
+        "projectPath": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\L064701\\GitHub\\Dating-App\\API\\obj\\",
+        "outputPath": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+<<<<<<< Updated upstream
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+=======
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+>>>>>>> Stashed changes
         ],
         "configFilePaths": [
           "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+<<<<<<< Updated upstream
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+=======
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -51,11 +59,15 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[7.0.5, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
             }
           },
           "imports": [

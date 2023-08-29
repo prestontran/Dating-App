@@ -1,42 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj": {}
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj": {
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
-        "outputPath": "C:\\Sources\\PersonalProjects\\Dating-App\\API\\obj\\",
+        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
+        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-<<<<<<< Updated upstream
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-=======
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
->>>>>>> Stashed changes
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-<<<<<<< Updated upstream
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-=======
+          "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

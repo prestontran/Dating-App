@@ -1526,7 +1526,6 @@
       "path": "system.runtime/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1681,7 +1680,6 @@
       "path": "system.text.encoding/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -1854,47 +1852,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\L064701\\.nuget\\packages\\": {},
-<<<<<<< Updated upstream
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
-=======
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
->>>>>>> Stashed changes
+    "C:\\Users\\prest\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
+      "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Sources\\PersonalProjects\\Dating-App\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
-      "outputPath": "c:\\Sources\\PersonalProjects\\Dating-App\\API\\obj\\",
+      "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
+      "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-<<<<<<< Updated upstream
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-=======
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
->>>>>>> Stashed changes
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-<<<<<<< Updated upstream
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-=======
+        "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> Stashed changes
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1950,5 +1931,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

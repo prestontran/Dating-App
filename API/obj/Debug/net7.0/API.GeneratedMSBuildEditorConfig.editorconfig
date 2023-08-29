@@ -9,17 +9,9 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = API
 build_property.RootNamespace = API
-<<<<<<< Updated upstream
-build_property.ProjectDir = c:\Users\L064701\GitHub\Dating-App\API\
+build_property.ProjectDir = c:\Preston Files\Learning Angular\Dating-App\API\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\L064701\GitHub\Dating-App\API
-=======
-build_property.ProjectDir = C:\Sources\PersonalProjects\Dating-App\API\
-build_property.RazorLangVersion = 7.0
-build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Sources\PersonalProjects\Dating-App\API
->>>>>>> Stashed changes
+build_property.MSBuildProjectDirectory = c:\Preston Files\Learning Angular\Dating-App\API
 build_property._RazorSourceGeneratorDebug = 

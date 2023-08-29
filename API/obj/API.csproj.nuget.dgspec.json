@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
+    "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
+    "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectPath": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
-        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
+        "outputPath": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

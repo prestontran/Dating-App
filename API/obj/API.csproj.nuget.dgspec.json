@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
+    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
-        "outputPath": "C:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
+        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

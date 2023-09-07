@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {}
+    "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj": {
+    "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\prest\\.nuget\\packages\\",
-        "outputPath": "c:\\Preston Files\\Learning Angular\\Dating-App\\API\\obj\\",
+        "projectPath": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
+        "outputPath": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\prest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\L064701\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

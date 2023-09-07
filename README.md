@@ -9,6 +9,10 @@
     dotnet ef database -h
     dotnet ef migrations add UsernameRequired (add new required field for database)
     dotnet ef migrations remove (remove latest change in database)
+    dotnet ef database drop
+    dotnet ef database update
+
+    dotnet run --no-hot-reload
 
     command pallet: .net:generate assets for build and debug: creates launch.json file
     
@@ -17,3 +21,6 @@
 
     To debug frontend, there are 2 ways: 1. run backend: dotnet run and run .NET Core Launch (web)
                                          2. run backend: dotnet watch --no-hot-reload and run .NET Core Attach and choose .exe file in the command pallet
+    Input(): take data from parent and pass to child
+    Output(): take data from child and pass to parent
+    ngx-toastr: service to notify users

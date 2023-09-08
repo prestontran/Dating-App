@@ -1,4 +1,4 @@
-import { Component, OnInit, ɵisObservable } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { AccountService } from '../_services/account.service';
 import { Observable, of } from 'rxjs';
 import { User } from '../_models/user';

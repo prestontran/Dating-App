@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {}
+    "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {
+    "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
+        "projectPath": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\L064701\\.nuget\\packages\\",
-        "outputPath": "c:\\Preston Files\\Coding Practice\\Dating-App\\API\\obj\\",
+        "outputPath": "C:\\Preston Files\\Coding Practice\\Dating-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

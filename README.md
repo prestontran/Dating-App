@@ -24,3 +24,15 @@
     Input(): take data from parent and pass to child
     Output(): take data from child and pass to parent
     ngx-toastr: service to notify users
+
+    updates:
+    ng update @angular-devkit/build-angular@16
+    ng update @angular/core@16 @angular/cli@16
+    ng update ngx-toastr
+    ng update ngx-bootstrap
+
+    install angular cli locally for each project
+    npm install @angular/cli@V13.3.3
+
+    install angular cli globally for everyone
+    npm install -g @angular/cli

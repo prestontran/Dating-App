@@ -36,3 +36,9 @@
 
     install angular cli globally for everyone
     npm install -g @angular/cli
+
+    ng g c: create a new component
+    
+    ng --help : To find all options can be created.
+    --skip-test: no test ts file created. 
+    --dry-run: check files will be created beforehand.

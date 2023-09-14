@@ -42,3 +42,5 @@
     ng --help : To find all options can be created.
     --skip-test: no test ts file created. 
     --dry-run: check files will be created beforehand.
+
+test user: lisa Pa$$w0rd

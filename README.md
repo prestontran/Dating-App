@@ -44,3 +44,7 @@
     --dry-run: check files will be created beforehand.
 
 test user: lisa Pa$$w0rd
+
+third party utilization:
+ng2 file upload
+cloudinary
